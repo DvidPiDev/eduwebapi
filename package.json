@@ -1,14 +1,16 @@
 {
   "name": "eduwebapi",
   "version": "1.0.0",
-  "description": "An interface between ",
+  "description": "An interface between loumadev's EdupageAPI package and the web.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"no test\" && exit 1",
     "dev": "nodemon server.js"
   },
   "keywords": [
-    "EduPageAPI"
+    "EduPageAPI",
+    "EduPage",
+    "API"
   ],
   "author": "DvidPi",
   "license": "MIT",
