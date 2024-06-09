@@ -11,7 +11,7 @@ Configuration is stored in the env file
 git clone https://github.com/DvidPiDev/eduwebapi // clone the repo
 cd eduwebapi
 npm install // install dependencies
-cp .env.example .env // copy the env example, then configure it
+nano .env // configure
 npm start // start the server
 ```
 By default, the server runs on port 3001, which can be configured in the .env file
